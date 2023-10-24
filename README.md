@@ -19,6 +19,4 @@ Skills:  REACT / JS / HTML / CSS/Tailwind.css / Boostrap.css / Node.js / Mongodb
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Iqubal905&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Iqubal905)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Iqubal905)  
